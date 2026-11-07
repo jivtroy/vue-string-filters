@@ -7,6 +7,12 @@ Vue string filters library can change template value dynamically. All languages 
 1. [Compatibility](#compatibility)
 2. [Installation](#installation)
    1. [NPM](#npm)
+   2. [Bun](#bun)
+   3. [Deno](#deno)
+   4. [PNPM](#pnpm)
+   5. [Yarn](#yarn)
+   6. [Nub](#nub)
+   7. [Vlt](#vlt)
 3. [Usage](#usage)
    1. [Global methods](#global-methods)
    2. [Computed properties](#computed-properties)
@@ -25,8 +31,9 @@ Vue string filters library can change template value dynamically. All languages 
    12. [Train case](#train-case)
    13. [Truncate](#truncate)
    14. [Upper case](#upper-case)
-5. [Author](#author)
-6. [License](#license)
+5. [Sponsors](#sponsors)
+6. [Author](#author)
+7. [License](#license)
 
 ## Compatibility
 
@@ -40,6 +47,42 @@ Vue | >= 3.5
 
 ```bash
 npm install vue-string-filters
+```
+
+### Bun
+
+```bash
+bun add hover-menu
+```
+
+### Deno
+
+```bash
+deno add npm:hover-menu
+```
+
+### PNPM
+
+```bash
+pnpm add hover-menu
+```
+
+### Yarn
+
+```bash
+yarn add hover-menu
+```
+
+### Nub
+
+```bash
+nub install hover-menu
+```
+
+### Vlt
+
+```bash
+vlt install hover-menu
 ```
 
 ## Usage
@@ -542,6 +585,8 @@ const upperComputed = computed(_ => upperRef.value.toUpperCase())
   <div>{{ upperComputed }}</div>
 </template>
 ```
+
+## Sponsors
 
 ## Author
 
