@@ -52,37 +52,37 @@ npm install vue-string-filters
 ### Bun
 
 ```bash
-bun add hover-menu
+bun add vue-string-filters
 ```
 
 ### Deno
 
 ```bash
-deno add npm:hover-menu
+deno add npm:vue-string-filters
 ```
 
 ### PNPM
 
 ```bash
-pnpm add hover-menu
+pnpm add vue-string-filters
 ```
 
 ### Yarn
 
 ```bash
-yarn add hover-menu
+yarn add vue-string-filters
 ```
 
 ### Nub
 
 ```bash
-nub install hover-menu
+nub install vue-string-filters
 ```
 
 ### Vlt
 
 ```bash
-vlt install hover-menu
+vlt install vue-string-filters
 ```
 
 ## Usage
