@@ -7,12 +7,6 @@ Vue string filters library can change template value dynamically. All languages 
 1. [Compatibility](#compatibility)
 2. [Installation](#installation)
    1. [NPM](#npm)
-   2. [Bun](#bun)
-   3. [Deno](#deno)
-   4. [PNPM](#pnpm)
-   5. [Yarn](#yarn)
-   6. [Nub](#nub)
-   7. [Vlt](#vlt)
 3. [Usage](#usage)
    1. [Global methods](#global-methods)
    2. [Computed properties](#computed-properties)
@@ -47,42 +41,6 @@ Vue | >= 3.5
 
 ```bash
 npm install vue-string-filters
-```
-
-### Bun
-
-```bash
-bun add vue-string-filters
-```
-
-### Deno
-
-```bash
-deno add npm:vue-string-filters
-```
-
-### PNPM
-
-```bash
-pnpm add vue-string-filters
-```
-
-### Yarn
-
-```bash
-yarn add vue-string-filters
-```
-
-### Nub
-
-```bash
-nub install vue-string-filters
-```
-
-### Vlt
-
-```bash
-vlt install vue-string-filters
 ```
 
 ## Usage
